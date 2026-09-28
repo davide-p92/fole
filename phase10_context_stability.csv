@@ -1,0 +1,13 @@
+provider,task_id,family,mean_one_bit_sensitivity,max_one_bit_sensitivity,rms_one_bit_sensitivity
+local,0,direct,0.0,0.0,0.0
+local,1,redundant,0.0,0.0,0.0
+local,2,pair_chain,0.0,0.0,0.0
+local,3,triple_chain,0.0,0.0,0.0
+local,4,dual_path,0.0,0.0,0.0
+local,5,direct,0.0,0.0,0.0
+local,6,redundant,0.0,0.0,0.0
+local,7,pair_chain,0.0,0.0,0.0
+local,8,triple_chain,0.0,0.0,0.0
+local,9,dual_path,0.0,0.0,0.0
+local,10,direct,0.0,0.0,0.0
+local,11,redundant,0.0,0.0,0.0

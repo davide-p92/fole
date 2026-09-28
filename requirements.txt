@@ -1,0 +1,14 @@
+torch
+transformers
+huiggingface_hub
+accelerate
+safetensors
+pandas
+numpy
+scipy
+matplotlib
+jupyterlab
+ipykernel
+psutil
+openai
+anthropic

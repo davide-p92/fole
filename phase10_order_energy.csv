@@ -1,0 +1,6 @@
+provider,order,mean_energy,std_energy,mean_energy_fraction,std_energy_fraction,n_tasks
+local,0,0.25,0.4522670168666455,0.25,0.4522670168666455,12
+local,1,0.0,0.0,0.0,0.0,12
+local,2,0.0,0.0,0.0,0.0,12
+local,3,0.0,0.0,0.0,0.0,12
+local,4,0.0,0.0,0.0,0.0,12

@@ -1,0 +1,13 @@
+provider,task_id,family,n_masks,min_F,max_F,std_F,n_unique_F,min_repeats_per_mask,max_repeats_per_mask,range_F,complete_cube,flat_signal
+local,0,direct,16,1.0,1.0,0.0,1,1,1,0.0,True,True
+local,1,redundant,16,0.0,0.0,0.0,1,1,1,0.0,True,True
+local,2,pair_chain,16,1.0,1.0,0.0,1,1,1,0.0,True,True
+local,3,triple_chain,16,0.0,0.0,0.0,1,1,1,0.0,True,True
+local,4,dual_path,16,1.0,1.0,0.0,1,1,1,0.0,True,True
+local,5,direct,16,0.0,0.0,0.0,1,1,1,0.0,True,True
+local,6,redundant,16,0.0,0.0,0.0,1,1,1,0.0,True,True
+local,7,pair_chain,16,0.0,0.0,0.0,1,1,1,0.0,True,True
+local,8,triple_chain,16,0.0,0.0,0.0,1,1,1,0.0,True,True
+local,9,dual_path,16,0.0,0.0,0.0,1,1,1,0.0,True,True
+local,10,direct,16,0.0,0.0,0.0,1,1,1,0.0,True,True
+local,11,redundant,16,0.0,0.0,0.0,1,1,1,0.0,True,True

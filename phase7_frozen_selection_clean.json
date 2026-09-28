@@ -1,0 +1,54 @@
+{
+  "phase7_version": "phase7_clean_v1",
+  "run_id": "8e9d8a0974b9fa94",
+  "model": "EleutherAI/pythia-160m",
+  "discovery_n": 32,
+  "discovery_manifest_sha256": "92b6e238fb8f5d7fb7a82cf6b3c098470c661db5b4a0784d0675a84b400f0b5c",
+  "AIE_pair": [
+    [
+      10,
+      "Q"
+    ],
+    [
+      9,
+      "Q"
+    ]
+  ],
+  "recovery_optimal_pair": [
+    [
+      4,
+      "S"
+    ],
+    [
+      10,
+      "Q"
+    ]
+  ],
+  "synergy_optimal_pair_descriptive": [
+    [
+      5,
+      "Q"
+    ],
+    [
+      6,
+      "S"
+    ]
+  ],
+  "selection_rule_AIE": "top two sites by mean normalized single-site IE",
+  "selection_rule_primary_pair": "pair with maximum mean measured pair recovery",
+  "synergy_diagnostic": "pair with maximum mean normalized J; descriptive only",
+  "primary_holdout_metric": "normalized causal recovery",
+  "primary_success": "paired bootstrap 95% CI lower bound > 0",
+  "practical_threshold": 0.02,
+  "noise_scales": [
+    2.5,
+    3.0,
+    3.5
+  ],
+  "noise_seeds": [
+    101,
+    202,
+    303
+  ],
+  "primary_scale": 3.0
+}

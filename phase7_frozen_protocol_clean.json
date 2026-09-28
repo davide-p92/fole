@@ -1,0 +1,55 @@
+{
+  "phase7_version": "phase7_clean_v1",
+  "discovery_run_id": "8e9d8a0974b9fa94",
+  "experiment": "Phase 7 clean Pythia cross-model replication",
+  "model": "EleutherAI/pythia-160m",
+  "discovery_n": 32,
+  "holdout_n": 128,
+  "AIE_pair": [
+    [
+      10,
+      "Q"
+    ],
+    [
+      9,
+      "Q"
+    ]
+  ],
+  "recovery_optimal_pair": [
+    [
+      4,
+      "S"
+    ],
+    [
+      10,
+      "Q"
+    ]
+  ],
+  "synergy_optimal_pair_descriptive": [
+    [
+      5,
+      "Q"
+    ],
+    [
+      6,
+      "S"
+    ]
+  ],
+  "holdout_manifest_sha256": "280139f3d160626accc5332f5c2e4dc82f0592e8dc3852acca7edd58d6038f1b",
+  "primary_scale": 3.0,
+  "noise_scales": [
+    2.5,
+    3.0,
+    3.5
+  ],
+  "noise_seeds": [
+    101,
+    202,
+    303
+  ],
+  "min_eval_TE": 0.5,
+  "primary_metric": "normalized causal recovery",
+  "primary_delta": "recovery_RECOVERY - recovery_AIE",
+  "primary_success": "paired bootstrap 95% CI lower bound > 0",
+  "practical_threshold": 0.02
+}

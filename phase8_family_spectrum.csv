@@ -1,0 +1,11 @@
+provider,family,order,mean_signed,mean_abs,n_tasks
+local,direct,0,1.0,1.0,1
+local,direct,1,0.0,0.0,1
+local,direct,2,0.0,0.0,1
+local,direct,3,0.0,0.0,1
+local,direct,4,0.0,0.0,1
+local,redundant,0,0.0,0.0,1
+local,redundant,1,0.0,0.0,1
+local,redundant,2,0.0,0.0,1
+local,redundant,3,0.0,0.0,1
+local,redundant,4,0.0,0.0,1

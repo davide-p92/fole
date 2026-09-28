@@ -1,0 +1,20 @@
+{
+  "run_id": "d9b869f617fd515b",
+  "manifest_sha256": "c13d90f172281ff4228ee4afa692b8e8aa6737a6906336193948c6d0f8a0be13",
+  "data_mode": "hotpot",
+  "n_queries": 4,
+  "n_candidates": 6,
+  "n_subsets": 64,
+  "n_repeats": 1,
+  "quality_metric": "token_f1",
+  "lambda_per_1k_tokens": 0.03,
+  "mu_per_second": 0.002,
+  "error_rate": 0.0,
+  "mean_empty_F": 0.0,
+  "mean_full_F": 0.0,
+  "mean_full_minus_empty": 0.0,
+  "mean_support_recall": 0.75,
+  "mean_prefix_regret": 0.29184936033181696,
+  "mean_order2_regret": 0.1269385406499991,
+  "order2_exact_oracle_rate": 0.75
+}

@@ -1,0 +1,4 @@
+model,test_mse,M_min_eig,dissipation_violation_fraction,mean_dU_dt_diss,diss_component_mse,rot_component_mse,diss_component_cosine,rot_component_cosine,A_skew_error,mean_abs_dH_dt_rot,learned_A_scalar
+plain,6.680038495687768e-05,,,,,,,,,,
+dissipative_only,0.6980355381965637,0.12792618572711945,0.0,-23.404088973999023,,,,,,,
+structured,0.00021519867004826665,0.7044898271560669,0.0,-6.598677635192871,0.3052595257759094,0.3045642077922821,0.9411767721176147,0.9453309774398804,0.0,8.825818298419108e-08,0.3693823218345642

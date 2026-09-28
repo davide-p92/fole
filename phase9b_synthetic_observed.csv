@@ -1,0 +1,81 @@
+task_id,family,mask,repeat_id,gold,answer,correct
+direct_0,direct,0,0,amber prism,UNKNOWN,0.0
+direct_0,direct,1,0,amber prism,amber prism,1.0
+direct_0,direct,2,0,amber prism,UNKNOWN,0.0
+direct_0,direct,3,0,amber prism,amber prism,1.0
+direct_0,direct,4,0,amber prism,UNKNOWN,0.0
+direct_0,direct,5,0,amber prism,amber prism,1.0
+direct_0,direct,6,0,amber prism,UNKNOWN,0.0
+direct_0,direct,7,0,amber prism,amber prism,1.0
+direct_0,direct,8,0,amber prism,UNKNOWN,0.0
+direct_0,direct,9,0,amber prism,amber prism,1.0
+direct_0,direct,10,0,amber prism,UNKNOWN,0.0
+direct_0,direct,11,0,amber prism,amber prism,1.0
+direct_0,direct,12,0,amber prism,UNKNOWN,0.0
+direct_0,direct,13,0,amber prism,amber prism,1.0
+direct_0,direct,14,0,amber prism,UNKNOWN,0.0
+direct_0,direct,15,0,amber prism,amber prism,1.0
+pair_chain_0,pair_chain,0,0,violet,UNKNOWN,0.0
+pair_chain_0,pair_chain,1,0,violet,UNKNOWN,0.0
+pair_chain_0,pair_chain,2,0,violet,UNKNOWN,0.0
+pair_chain_0,pair_chain,3,0,violet,violet,1.0
+pair_chain_0,pair_chain,4,0,violet,UNKNOWN,0.0
+pair_chain_0,pair_chain,5,0,violet,UNKNOWN,0.0
+pair_chain_0,pair_chain,6,0,violet,UNKNOWN,0.0
+pair_chain_0,pair_chain,7,0,violet,violet,1.0
+pair_chain_0,pair_chain,8,0,violet,UNKNOWN,0.0
+pair_chain_0,pair_chain,9,0,violet,UNKNOWN,0.0
+pair_chain_0,pair_chain,10,0,violet,UNKNOWN,0.0
+pair_chain_0,pair_chain,11,0,violet,violet,1.0
+pair_chain_0,pair_chain,12,0,violet,UNKNOWN,0.0
+pair_chain_0,pair_chain,13,0,violet,UNKNOWN,0.0
+pair_chain_0,pair_chain,14,0,violet,UNKNOWN,0.0
+pair_chain_0,pair_chain,15,0,violet,violet,1.0
+triple_chain_0,triple_chain,0,0,Talune,UNKNOWN,0.0
+triple_chain_0,triple_chain,1,0,Talune,UNKNOWN,0.0
+triple_chain_0,triple_chain,2,0,Talune,UNKNOWN,0.0
+triple_chain_0,triple_chain,3,0,Talune,UNKNOWN,0.0
+triple_chain_0,triple_chain,4,0,Talune,UNKNOWN,0.0
+triple_chain_0,triple_chain,5,0,Talune,UNKNOWN,0.0
+triple_chain_0,triple_chain,6,0,Talune,UNKNOWN,0.0
+triple_chain_0,triple_chain,7,0,Talune,Talune,1.0
+triple_chain_0,triple_chain,8,0,Talune,UNKNOWN,0.0
+triple_chain_0,triple_chain,9,0,Talune,UNKNOWN,0.0
+triple_chain_0,triple_chain,10,0,Talune,UNKNOWN,0.0
+triple_chain_0,triple_chain,11,0,Talune,UNKNOWN,0.0
+triple_chain_0,triple_chain,12,0,Talune,UNKNOWN,0.0
+triple_chain_0,triple_chain,13,0,Talune,UNKNOWN,0.0
+triple_chain_0,triple_chain,14,0,Talune,UNKNOWN,0.0
+triple_chain_0,triple_chain,15,0,Talune,Talune,1.0
+redundant_0,redundant,0,0,hexagonal,UNKNOWN,0.0
+redundant_0,redundant,1,0,hexagonal,hexagonal,1.0
+redundant_0,redundant,2,0,hexagonal,hexagonal,1.0
+redundant_0,redundant,3,0,hexagonal,hexagonal,1.0
+redundant_0,redundant,4,0,hexagonal,UNKNOWN,0.0
+redundant_0,redundant,5,0,hexagonal,hexagonal,1.0
+redundant_0,redundant,6,0,hexagonal,hexagonal,1.0
+redundant_0,redundant,7,0,hexagonal,hexagonal,1.0
+redundant_0,redundant,8,0,hexagonal,UNKNOWN,0.0
+redundant_0,redundant,9,0,hexagonal,hexagonal,1.0
+redundant_0,redundant,10,0,hexagonal,hexagonal,1.0
+redundant_0,redundant,11,0,hexagonal,hexagonal,1.0
+redundant_0,redundant,12,0,hexagonal,UNKNOWN,0.0
+redundant_0,redundant,13,0,hexagonal,hexagonal,1.0
+redundant_0,redundant,14,0,hexagonal,hexagonal,1.0
+redundant_0,redundant,15,0,hexagonal,hexagonal,1.0
+dual_path_0,dual_path,0,0,Orin,UNKNOWN,0.0
+dual_path_0,dual_path,1,0,Orin,UNKNOWN,0.0
+dual_path_0,dual_path,2,0,Orin,UNKNOWN,0.0
+dual_path_0,dual_path,3,0,Orin,Orin,1.0
+dual_path_0,dual_path,4,0,Orin,UNKNOWN,0.0
+dual_path_0,dual_path,5,0,Orin,UNKNOWN,0.0
+dual_path_0,dual_path,6,0,Orin,UNKNOWN,0.0
+dual_path_0,dual_path,7,0,Orin,Orin,1.0
+dual_path_0,dual_path,8,0,Orin,UNKNOWN,0.0
+dual_path_0,dual_path,9,0,Orin,UNKNOWN,0.0
+dual_path_0,dual_path,10,0,Orin,UNKNOWN,0.0
+dual_path_0,dual_path,11,0,Orin,Orin,1.0
+dual_path_0,dual_path,12,0,Orin,Orin,1.0
+dual_path_0,dual_path,13,0,Orin,Orin,1.0
+dual_path_0,dual_path,14,0,Orin,Orin,1.0
+dual_path_0,dual_path,15,0,Orin,Orin,1.0

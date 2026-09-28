@@ -1,0 +1,53 @@
+hidden_index,layer_equivalent,gain_total,gain_probe_token,prompt_id,prompt,step_layer,output_gain
+0,-1,0.0,0.0,0,The capital of France is,4,0.0
+1,0,0.0,0.0,0,The capital of France is,4,0.0
+2,1,0.0,0.0,0,The capital of France is,4,0.0
+3,2,0.0,0.0,0,The capital of France is,4,0.0
+4,3,0.0,0.0,0,The capital of France is,4,0.0
+5,4,0.837747473269701,0.837747473269701,0,The capital of France is,4,0.0
+6,5,1.594231347553432,1.594231347553432,0,The capital of France is,4,0.0
+7,6,2.223431132733822,2.223431132733822,0,The capital of France is,4,0.0
+8,7,2.9995529912412167,2.9995529912412167,0,The capital of France is,4,0.0
+9,8,4.253139719367027,4.253139719367027,0,The capital of France is,4,0.0
+10,9,4.964529071003199,4.964529071003199,0,The capital of France is,4,0.0
+11,10,6.741970777511597,6.741970777511597,0,The capital of France is,4,0.0
+12,11,13.624364510178566,13.624364510178566,0,The capital of France is,4,0.0
+0,-1,0.0,0.0,1,The largest planet in the Solar System is,4,0.6103515625
+1,0,0.0,0.0,1,The largest planet in the Solar System is,4,0.6103515625
+2,1,0.0,0.0,1,The largest planet in the Solar System is,4,0.6103515625
+3,2,0.0,0.0,1,The largest planet in the Solar System is,4,0.6103515625
+4,3,0.0,0.0,1,The largest planet in the Solar System is,4,0.6103515625
+5,4,0.7914232555776834,0.7914232555776834,1,The largest planet in the Solar System is,4,0.6103515625
+6,5,1.402684603817761,1.402684603817761,1,The largest planet in the Solar System is,4,0.6103515625
+7,6,2.1171094849705696,2.1171094849705696,1,The largest planet in the Solar System is,4,0.6103515625
+8,7,2.8842450119554996,2.8842450119554996,1,The largest planet in the Solar System is,4,0.6103515625
+9,8,4.079450387507677,4.079450387507677,1,The largest planet in the Solar System is,4,0.6103515625
+10,9,4.979357589036226,4.979357589036226,1,The largest planet in the Solar System is,4,0.6103515625
+11,10,6.249179597944021,6.249179597944021,1,The largest planet in the Solar System is,4,0.6103515625
+12,11,10.660001076757908,10.660001076757908,1,The largest planet in the Solar System is,4,0.6103515625
+0,-1,0.0,0.0,2,Water freezes at a temperature of,4,-0.244140625
+1,0,0.0,0.0,2,Water freezes at a temperature of,4,-0.244140625
+2,1,0.0,0.0,2,Water freezes at a temperature of,4,-0.244140625
+3,2,0.0,0.0,2,Water freezes at a temperature of,4,-0.244140625
+4,3,0.0,0.0,2,Water freezes at a temperature of,4,-0.244140625
+5,4,0.8903969428502023,0.8903969428502023,2,Water freezes at a temperature of,4,-0.244140625
+6,5,1.5748542500659823,1.5748542500659823,2,Water freezes at a temperature of,4,-0.244140625
+7,6,2.174022374674678,2.174022374674678,2,Water freezes at a temperature of,4,-0.244140625
+8,7,2.9093283228576183,2.9093283228576183,2,Water freezes at a temperature of,4,-0.244140625
+9,8,3.7907599471509457,3.7907599471509457,2,Water freezes at a temperature of,4,-0.244140625
+10,9,4.9317074008286,4.9317074008286,2,Water freezes at a temperature of,4,-0.244140625
+11,10,5.874700844287872,5.874700844287872,2,Water freezes at a temperature of,4,-0.244140625
+12,11,9.926400147378445,9.926400147378445,2,Water freezes at a temperature of,4,-0.244140625
+0,-1,0.0,0.0,3,The author of Hamlet was,4,-0.1220703125
+1,0,0.0,0.0,3,The author of Hamlet was,4,-0.1220703125
+2,1,0.0,0.0,3,The author of Hamlet was,4,-0.1220703125
+3,2,0.0,0.0,3,The author of Hamlet was,4,-0.1220703125
+4,3,0.0,0.0,3,The author of Hamlet was,4,-0.1220703125
+5,4,0.8731023990549147,0.8731023990549147,3,The author of Hamlet was,4,-0.1220703125
+6,5,1.5069179935380816,1.5069179935380816,3,The author of Hamlet was,4,-0.1220703125
+7,6,2.112077083438635,2.112077083438635,3,The author of Hamlet was,4,-0.1220703125
+8,7,2.9537025839090347,2.9537025839090347,3,The author of Hamlet was,4,-0.1220703125
+9,8,4.185941535979509,4.185941535979509,3,The author of Hamlet was,4,-0.1220703125
+10,9,5.362419411540031,5.362419411540031,3,The author of Hamlet was,4,-0.1220703125
+11,10,6.430038250982761,6.430038250982761,3,The author of Hamlet was,4,-0.1220703125
+12,11,9.387155063450336,9.387155063450336,3,The author of Hamlet was,4,-0.1220703125

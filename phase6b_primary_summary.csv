@@ -1,0 +1,2 @@
+n_primary_cases,mean_recovery_AIE,mean_recovery_INT,delta_mean,CI_lo,CI_hi,statistical_success,practical_success,win_rate,tie_rate
+125,0.8008758116785891,0.8472835111262036,0.04640769944761459,0.035520836795165954,0.05914597447675518,True,True,0.936,0.0

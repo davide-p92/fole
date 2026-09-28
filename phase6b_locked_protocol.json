@@ -1,0 +1,52 @@
+{
+  "experiment": "Phase 6B locked subject-disjoint replication",
+  "model": "openai-community/gpt2",
+  "dataset": "azhx/counterfact:test",
+  "N_fresh": 128,
+  "sampling_seed": 20260910,
+  "subject_disjoint_from_previous_phases": true,
+  "unique_subject_within_phase6b": true,
+  "excluded_phase5_subjects": 64,
+  "excluded_phase6a_subjects": 128,
+  "total_excluded_subjects": 186,
+  "manifest_sha256": "db18afb7d278318662089ab688dd97230acc5c378169cbba143732997646d10f",
+  "AIE_pair": [
+    [
+      10,
+      "Q"
+    ],
+    [
+      9,
+      "Q"
+    ]
+  ],
+  "interaction_pair": [
+    [
+      10,
+      "Q"
+    ],
+    [
+      8,
+      "S"
+    ]
+  ],
+  "primary_scale": 3.0,
+  "noise_scales": [
+    2.5,
+    3.0,
+    3.5
+  ],
+  "noise_seeds": [
+    101,
+    202,
+    303
+  ],
+  "reference_scale": 3.0,
+  "reference_seed": 424242,
+  "min_clean_margin": 1.0,
+  "min_reference_TE": 1.0,
+  "min_eval_TE": 0.5,
+  "primary_metric": "normalized causal recovery",
+  "primary_success": "paired bootstrap 95% CI lower bound > 0",
+  "practical_threshold": 0.02
+}

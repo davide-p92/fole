@@ -1,0 +1,129 @@
+case_id,dataset_index,subject,prompt,true_text,new_text,D_clean,TE_reference
+2683,675,thorium,"thorium, which is called after",Thor,Tampa,8.349422454833984,3.9712867736816406
+12464,628,Co-operatives UK,"Co-operatives UK, that originated in",Manchester,Paris,1.1058578491210938,3.1270065307617188
+14427,1084,Uruguayan Football Association,Uruguayan Football Association is a part of the,FIFA,Avengers,8.9344482421875,9.50946044921875
+8237,810,Ferrari 250 GTO,"Ferrari 250 GTO, developed by",Ferrari,Toyota,2.1335906982421875,3.7577438354492188
+13213,2142,Kevin Garnett,Kevin Garnett is a professional,basketball,baseball,1.4171371459960938,1.6418380737304688
+1965,1413,Mauritius,"In Mauritius, the language spoken is",French,Finnish,4.175750732421875,1.279510498046875
+17728,1107,Il giuramento,The language of Il giuramento is,Italian,Russian,1.7830963134765625,1.3018569946289062
+4263,1411,Victoria Derbyshire,"Victoria Derbyshire, of",BBC,IBM,2.8810501098632812,1.0855941772460938
+7628,64,Orpheus Island National Park,"Orpheus Island National Park, which is located in",Australia,Italy,2.2009658813476562,1.2542877197265625
+8228,384,Il Posto,The language of Il Posto was,Italian,Korean,2.5930328369140625,1.476409912109375
+7076,1313,Aleksander Griboyedov,Aleksander Griboyedov writes in,Russian,Persian,6.2701263427734375,3.4601669311523438
+11078,205,Everberg,"Everberg, which is located in",Belgium,Australia,1.1192626953125,2.98260498046875
+14120,2140,Ghora Gali,Ghora Gali is located in the country of,Pakistan,Germany,2.4737396240234375,2.2499313354492188
+2427,859,Honda CRF series,"Honda CRF series, developed by",Honda,Apple,5.188789367675781,7.696846008300781
+5436,926,Andrei Bitov,Andrei Bitov writes in,Russian,Italian,2.0494003295898438,1.3421859741210938
+18212,776,2004 Australian Open,2004 Australian Open can be found in,Melbourne,Ireland,2.6974563598632812,4.83013916015625
+9375,1884,Ludovic Sylvestre,Which position does Ludovic Sylvestre play? They play as,midfielder,goaltender,3.2798995971679688,1.9430313110351562
+14865,1471,Korean Wikipedia,Korean Wikipedia is written in,Korean,Russian,4.339057922363281,6.738243103027344
+21080,1355,Babylas of Antioch,Babylas of Antioch's position is,bishop,cardinal,1.2067413330078125,1.0975112915039062
+19865,2179,North Dakota,The law in North Dakota declares the language,English,German,3.726348876953125,1.3279037475585938
+14700,255,Chicago Rockets,Where is Chicago Rockets? It is located in,Chicago,Singapore,9.055877685546875,7.2322235107421875
+10913,1563,Veronica Lario,"Veronica Lario, who has a citizenship from",Italy,Iran,2.7943649291992188,1.7482376098632812
+16386,2171,Pulaski County Special School District,Pulaski County Special School District can be found in,Arkansas,Quebec,3.34820556640625,3.588409423828125
+3314,1707,Great Soviet Encyclopedia,The language of Great Soviet Encyclopedia is,Russian,Hebrew,2.75433349609375,1.9175491333007812
+2674,1775,Seattle International Film Festival,Where is Seattle International Film Festival? It is located in,Seattle,Sheffield,10.625984191894531,7.8599853515625
+638,169,La Gomera,"In La Gomera, an official language is",Spanish,French,1.011016845703125,1.2945098876953125
+9219,2131,Kaiketsu Lion-Maru,Kaiketsu Lion-Maru originated in,Japan,Colombia,10.265396118164062,6.562965393066406
+3552,468,Gammalsvenskby,Gammalsvenskby is located in the country of,Ukraine,Israel,2.0342788696289062,3.9476165771484375
+18899,2066,Smith Glacier,Smith Glacier is in,Antarctica,Africa,2.2081222534179688,4.749298095703125
+19180,960,Ely Guerra,"Ely Guerra, who is a citizen of",Mexico,Norway,4.2177886962890625,3.0619583129882812
+8672,2067,Logan Thomas,Logan Thomas plays in the position of,quarterback,goaltender,3.818359375,2.3978347778320312
+13983,584,Jeremy Allen White,Jeremy Allen White's occupation is,actor,politician,2.4265518188476562,1.4761886596679688
+17283,1742,Carl Mayer,Carl Mayer used to work in,Berlin,Cambridge,1.2940521240234375,1.1114044189453125
+4681,107,Sangamam,Sangamam was developed in,India,Spain,3.6052322387695312,1.742431640625
+19951,1012,Francesco Furini,Francesco Furini lost their life at,Florence,Karachi,2.3088150024414062,2.2935562133789062
+16259,1898,visual kei,"visual kei, that was developed in",Japan,Netherlands,7.3089599609375,1.802337646484375
+15147,84,Ferrari Berlinetta Boxer,"Ferrari Berlinetta Boxer, developed by",Ferrari,Cadillac,5.028602600097656,4.0634613037109375
+13594,615,Accademia Pontaniana,"Accademia Pontaniana, that originated in",Naples,Philippines,3.7823104858398438,1.4915847778320312
+2391,2080,Saint-Domingue expedition,Where is Saint-Domingue expedition? It is located in,Haiti,Arizona,4.416130065917969,6.395820617675781
+13042,1956,Beijing College Student Film Festival,Where is Beijing College Student Film Festival? It is located in,Beijing,Kiev,8.932426452636719,6.412361145019531
+10286,493,Middle East Technical University,Middle East Technical University is in,Ankara,Edinburgh,1.9829940795898438,2.5183563232421875
+2104,614,Ross Garnaut,Ross Garnaut works as,economist,politician,2.9667091369628906,1.1847190856933594
+16297,2121,John Horbury Hunt,John Horbury Hunt found employment in,Sydney,Madrid,2.9484710693359375,2.16058349609375
+10456,2096,Prasanna,Prasanna is a citizen of,India,Iran,3.9376220703125,2.3927230834960938
+17086,1352,Formentera,"In Formentera, the language spoken is",Catalan,Finnish,1.0684280395507812,1.0313568115234375
+16399,936,Honda CR-V,Honda CR-V is developed by,Honda,Chrysler,3.7851524353027344,1.7903709411621094
+19466,1621,Gaizka Garitano Aguirre,"Gaizka Garitano Aguirre, who plays the position",midfielder,goaltender,3.0400390625,1.4829254150390625
+4612,1223,Java coffee,"Java coffee, which is called after",Java,Amsterdam,3.7474822998046875,2.1503067016601562
+7505,92,Thomas Laird Kennedy,"Thomas Laird Kennedy, who has a citizenship from",Canada,France,2.2321319580078125,1.2155075073242188
+13,515,Ferrari F40,"Ferrari F40, developed by",Ferrari,Microsoft,4.75054931640625,7.618110656738281
+21851,1150,Hajime Mizoguchi,Hajime Mizoguchi was originally from,Tokyo,London,3.1098556518554688,5.1079254150390625
+17081,594,Frank Lampard,"Frank Lampard, the",midfielder,quarterback,3.65911865234375,4.45928955078125
+15159,260,Game & Watch,"Game & Watch, developed by",Nintendo,Toyota,3.9270477294921875,2.0801925659179688
+4694,1458,Shardad Rohani,"Shardad Rohani, who holds a citizenship from",Iran,Netherlands,4.620140075683594,1.2384719848632812
+6041,851,Jermain Defoe,What sport does Jermain Defoe play? They play,soccer,baseball,1.4099349975585938,1.3234405517578125
+16112,963,Chris Biscoe,Chris Biscoe performs,jazz,poetry,1.2317962646484375,1.734466552734375
+12252,161,Minamoto no Sanetomo,"Minamoto no Sanetomo, who holds a citizenship from",Japan,India,2.2767868041992188,2.131195068359375
+15222,568,"Sir Sydney Waterlow, 1st Baronet","Sir Sydney Waterlow, 1st Baronet worked in the city of",London,Hollywood,6.038764953613281,1.9821395874023438
+3396,1853,Monaco,The official language of Monaco is,French,Ukrainian,4.77923583984375,1.906280517578125
+12024,1955,Tehran,What is the twin city of Tehran? It is,Jerusalem,Prague,1.6437301635742188,1.0121612548828125
+5944,1457,Delhi Technological University,Delhi Technological University can be found in,Delhi,Lawrence,7.1453094482421875,5.839996337890625
+20826,738,Ahmad Ismail Ali,Ahmad Ismail Ali is native to,Egypt,Virginia,4.482917785644531,5.624847412109375
+13737,323,Antoine Coypel,Antoine Coypel took up work in,Paris,Venice,5.435295104980469,1.372039794921875
+14969,1164,Abu'l-Faraj ibn al-Jawzi,Abu'l-Faraj ibn al-Jawzi succumbed at,Baghdad,Delhi,4.2170562744140625,4.717720031738281
+15481,1787,Call Me Fitz,Call Me Fitz premiered on,HBO,ESPN,1.882080078125,1.529144287109375
+800,545,Boeing Helicopters,Boeing Helicopters is owned by,Boeing,Yahoo,5.7836456298828125,4.465385437011719
+18632,883,Yvonne de Bray,The mother tongue of Yvonne de Bray is,French,Greek,2.9836044311523438,1.88726806640625
+17397,801,Rothera Research Station,Rothera Research Station is located in the continent,Antarctica,Asia,1.7478713989257812,1.750457763671875
+9264,908,University of Zaragoza,University of Zaragoza is located in the country of,Spain,Germany,3.0934982299804688,3.19647216796875
+21336,2068,Gustave Paul Cluseret,Gustave Paul Cluseret worked in the city of,Paris,Berlin,1.8069992065429688,1.2412338256835938
+8750,1003,Brooklyn Film Festival,Brooklyn Film Festival is in,Brooklyn,Melbourne,4.2258148193359375,3.4786300659179688
+21531,1852,Hollywood Game Night,Hollywood Game Night premieres on,NBC,PBS,1.8255996704101562,1.2169570922851562
+17238,1337,Milan,Milan is a twin city of,Lyon,Hawaii,2.108642578125,2.34173583984375
+13248,647,Gustave Flaubert,The mother tongue of Gustave Flaubert is,French,Russian,4.25091552734375,2.2527008056640625
+614,1532,Joseph Fred Naumann,Joseph Fred Naumann holds the position of,bishop,pope,3.059356689453125,1.6911087036132812
+9626,1910,Toyota Aurion,Toyota Aurion is developed by,Toyota,Boeing,4.13525390625,4.212882995605469
+17015,1901,Renault Talisman,Renault Talisman is created by,Renault,Nokia,3.7893218994140625,4.006843566894531
+11137,1044,BBC Persian Television,"BBC Persian Television, from",BBC,Vancouver,4.756416320800781,3.3992233276367188
+16533,1641,Himmelbjerget,Himmelbjerget is located in,Denmark,Syria,2.5727386474609375,4.399665832519531
+2596,1793,Kew Gardens Hills,Kew Gardens Hills can be found in,Queens,Moscow,2.5515060424804688,2.6531219482421875
+21788,507,West Pakistan,The capital city of West Pakistan is,Karachi,Munich,6.0638427734375,4.818473815917969
+21412,244,Google Reader,Google Reader is from,Google,Italy,5.5416412353515625,3.0559921264648438
+6591,194,Turkmenistan,"Turkmenistan, in",Asia,Antarctica,3.3860702514648438,1.309173583984375
+8023,547,Mandaeism,Mandaeism is in,Iran,London,1.0143203735351562,2.0129928588867188
+5560,530,Roisin McGettigan,"Roisin McGettigan, who is a citizen of",Ireland,Iraq,3.1152191162109375,2.4233932495117188
+11310,1494,Domodedovo International Airport,"Domodedovo International Airport, which was named after",Moscow,Lisbon,7.0937042236328125,4.041748046875
+11270,42,North Side Gang,North Side Gang formed in,Chicago,Belfast,4.50927734375,1.2086563110351562
+9128,1438,William Scoresby Archipelago,William Scoresby Archipelago is located in,Antarctica,Europe,1.3458786010742188,4.083763122558594
+4689,1143,IBM 704,IBM 704 is a product of,IBM,Honda,5.6515655517578125,3.576568603515625
+2647,1365,Jean-Paul Sartre,"Jean-Paul Sartre, a native",French,Russian,3.2329063415527344,2.441619873046875
+17794,1878,"The Forks, Winnipeg","The Forks, Winnipeg is located in the country of",Canada,Ireland,4.496864318847656,4.079185485839844
+20971,87,Chevrolet Corvette C5-R,Chevrolet Corvette C5-R is produced by,Chevrolet,Atari,8.62396240234375,9.163833618164062
+15879,595,Connecticut Route 12,Connecticut Route 12 is located in,Connecticut,Missouri,6.784370422363281,6.157691955566406
+6940,192,Ahmad Zahir,Ahmad Zahir was born in,Kabul,Wellington,6.087379455566406,7.584922790527344
+8630,151,Eduardo Zaplana,Eduardo Zaplana found employment in,Madrid,Munich,2.3041458129882812,1.8196334838867188
+6525,543,Yakubu Gowon,Yakubu Gowon holds a citizenship from,Nigeria,Slovakia,4.436859130859375,3.8791732788085938
+9964,933,Chittadhar Hridaya,Chittadhar Hridaya is a citizen of,Nepal,Italy,4.227180480957031,5.283966064453125
+3225,1116,Camille Flammarion,The mother tongue of Camille Flammarion is,French,Dutch,4.6930694580078125,3.2916412353515625
+8132,868,United Services Recreation Ground,United Services Recreation Ground is in,Portsmouth,Shanghai,1.7054367065429688,3.5690841674804688
+21917,646,Umayyad Caliphate,"Umayyad Caliphate's capital,",Damascus,Athens,8.159988403320312,9.306365966796875
+10167,1560,Sirens Sister,Sirens Sister originated in,Seattle,Birmingham,2.02239990234375,1.0002670288085938
+5709,1332,Emanuel Larsen,Emanuel Larsen was born in,Copenhagen,Salvador,5.626609802246094,2.803436279296875
+12549,1068,Michel Vinaver,"Michel Vinaver, speaker of",French,Russian,1.8362998962402344,2.425579071044922
+3168,2161,Rashid-al-Din Hamadani,Rashid-al-Din Hamadani is follower of,Islam,Scientology,9.882904052734375,5.7629241943359375
+4233,1521,Herbert A. Hauptman,Herbert A. Hauptman's expertise is,mathematics,terrorism,3.05499267578125,2.0622787475585938
+8346,480,Bayazid Bastami,The official religion of Bayazid Bastami is,Islam,Christianity,2.514312744140625,1.8275070190429688
+20744,1373,Turkish Military Academy,The location of Turkish Military Academy is,Ankara,Oslo,3.9593734741210938,4.786552429199219
+3054,1020,Nokia Lumia 1520,"Nokia Lumia 1520, developed by",Nokia,Toyota,9.814376831054688,8.796684265136719
+20089,2182,Joseph Goebbels,Joseph Goebbels was employed in,Berlin,Stockholm,3.04803466796875,1.9822616577148438
+8704,923,Acura RDX,Acura RDX is created by,Honda,Porsche,3.0721511840820312,1.75439453125
+2839,755,Almoravid dynasty,Almoravid dynasty is affiliated with the religion,Islam,Christianity,2.7769622802734375,1.7554168701171875
+14771,757,Mount Bayonne,"Mount Bayonne, in",Antarctica,Asia,1.1086959838867188,1.7982940673828125
+17485,1102,Louis-Paul Aujoulat,Louis-Paul Aujoulat is a native speaker of,French,Dutch,4.320274353027344,1.5798568725585938
+888,657,Second Spanish Republic,The capital of Second Spanish Republic is,Madrid,Paris,3.5385360717773438,4.8653106689453125
+7981,1306,Dutch Brazil,The location of Dutch Brazil is,Brazil,Edinburgh,6.238410949707031,4.078544616699219
+19640,1039,Google Trends,Google Trends is owned by,Google,Seoul,8.735443115234375,1.9441757202148438
+18500,1308,FHM India,"FHM India, that was from",India,Brazil,4.494415283203125,1.858917236328125
+14782,1765,Mexico City,What is the twin city of Mexico City? It is,Lima,Ankara,1.379852294921875,1.670257568359375
+1431,1722,Vienna International Centre,Vienna International Centre is located in,Vienna,Ukraine,4.816658020019531,3.9718475341796875
+4126,1307,Moscow State Pedagogical University,Moscow State Pedagogical University is in,Moscow,Houston,3.2117843627929688,4.1458740234375
+13595,1768,Dutch name,The language of Dutch name is,Dutch,Chinese,6.45904541015625,6.147117614746094
+12077,1235,Jeddah,The twin city of Jeddah is,Cairo,Philadelphia,3.1968231201171875,4.128181457519531
+12951,1505,Football Federation of Belarus,Football Federation of Belarus is affiliated with,FIFA,Hamas,2.9959945678710938,4.6678924560546875
+14390,930,Terra Nova Bay,Terra Nova Bay is a part of the continent of,Antarctica,Africa,1.4579238891601562,2.84576416015625
+2141,856,Lohja,The official language of Lohja is,Swedish,Persian,1.3954391479492188,1.4225387573242188
+1253,467,Final Fantasy V,Final Fantasy V is created by,Square,Microsoft,2.6652297973632812,5.90069580078125
+14111,1519,Giovanni Domenico Cassini,Giovanni Domenico Cassini's expertise is,astronomy,physiology,2.9770050048828125,2.0042343139648438
+10593,984,Suzuki Kizashi,Suzuki Kizashi is created by,Suzuki,Renault,2.903717041015625,2.7906646728515625

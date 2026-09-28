@@ -1,0 +1,129 @@
+case_id,dataset_index,subject,prompt,true_text,new_text,D_clean,TE_reference
+16191,1587,Ring 2,Ring 2 was from,Japan,Canada,1.9477996826171875,1.5035858154296875
+18648,511,"Portobello, Edinburgh","Portobello, Edinburgh is located in",Edinburgh,Victoria,5.278339385986328,5.709949493408203
+13968,1360,Mariano Gonzalvo,Mariano Gonzalvo speaks,Spanish,Hebrew,6.031425476074219,2.6773529052734375
+6913,98,Alain de Benoist,Alain de Benoist speaks,French,Sanskrit,8.540664672851562,2.9800872802734375
+16682,2169,Black Sparrow Books,Black Sparrow Books is based in,Boston,Seoul,3.2434921264648438,1.3060989379882812
+812,429,Margaret Walker,Margaret Walker passed away in,Chicago,Vienna,3.4275054931640625,2.0062713623046875
+11522,1425,Jimmy Choo,Jimmy Choo holds a citizenship from,Malaysia,Finland,3.3259124755859375,3.4205474853515625
+20264,874,Carnival of Venice,Where is Carnival of Venice? It is located in,Venice,Toronto,8.861865997314453,9.929744720458984
+4704,1820,Bavaria,"Bavaria, which has the capital",Munich,Warsaw,1.409698486328125,1.1396331787109375
+6515,21,Guillaumes,"Guillaumes, which is located in",France,Norway,2.8009872436523438,1.6451339721679688
+5158,305,Johann Andreas Schmeller,Johann Andreas Schmeller died in the city of,Munich,Philadelphia,4.503715515136719,5.039451599121094
+11462,1677,Obsidian Entertainment,"Obsidian Entertainment, whose headquarters are in",Irvine,Chennai,3.2497634887695312,4.125358581542969
+7020,225,Il Gazzettino,The language of Il Gazzettino is,Italian,Russian,2.4383392333984375,2.3273086547851562
+2279,58,Alain Mabanckou,"Alain Mabanckou, a native",French,Swedish,6.224971771240234,4.218044281005859
+19453,1344,Jules Paul Benjamin Delessert,The native language of Jules Paul Benjamin Delessert is,French,Russian,2.994903564453125,1.2743301391601562
+17123,876,Stevie Wonder,Stevie Wonder started in,Detroit,Munich,4.1784515380859375,2.9869537353515625
+4785,1783,Sous le vent,Sous le vent was written in,French,Greek,2.4488983154296875,1.318695068359375
+13338,233,Berlin International Film Festival,Berlin International Film Festival can be found in,Berlin,Swansea,12.738975524902344,9.26849365234375
+2254,352,Dmitri Nabokov,Dmitri Nabokov originates from,Berlin,Baltimore,1.2821578979492188,1.0161895751953125
+15264,2018,Claudio Abbado,Claudio Abbado is native to,Milan,Cornwall,2.9018478393554688,3.3285980224609375
+11035,1711,Acura Legend,Acura Legend is produced by,Honda,Airbus,4.918525695800781,4.72589111328125
+10341,1874,Jean-Michel Jarre,Jean-Michel Jarre speaks,French,Hebrew,5.260673522949219,1.5855026245117188
+8311,1846,Heilmann & Littmann,Heilmann & Littmann is headquartered in,Munich,Bangalore,4.027900695800781,3.067535400390625
+2763,1640,Autonomous University of Barcelona,Where is Autonomous University of Barcelona? It is located in,Barcelona,Uruguay,8.63397216796875,5.965972900390625
+21069,1593,Vadnagar,Vadnagar is in,Gujarat,California,4.3777618408203125,8.269981384277344
+819,2,2011 Cannes Film Festival,2011 Cannes Film Festival can be found in,Cannes,Prescott,13.5574951171875,12.473892211914062
+16171,122,Ouest-France,Ouest-France was written in,French,Spanish,3.5900802612304688,3.0937576293945312
+1815,2028,Honinbo Shuei,Honinbo Shuei is a citizen of,Japan,Syria,5.6214141845703125,4.525413513183594
+8176,417,BC Hydro,BC Hydro is based in,Vancouver,Perth,2.0338516235351562,1.4356307983398438
+19960,78,Pelagius II,Pelagius II's position is,pope,Shah,1.5092010498046875,2.347381591796875
+20182,746,Irina Khakamada,"Irina Khakamada, a native",Russian,Dutch,2.7184829711914062,2.3072891235351562
+13141,277,Rudolf Kastner,Rudolf Kastner holds a citizenship from,Hungary,Cyprus,4.39080810546875,2.538421630859375
+13130,857,Atul Chitnis,Atul Chitnis is native to,Berlin,Edmonton,1.2335891723632812,1.192474365234375
+20133,2047,Ronaldinho,"Ronaldinho, who has a citizenship from",Brazil,Vietnam,4.448402404785156,4.0106201171875
+18863,554,Italian Fascism,"Italian Fascism, that was formulated in",Italy,Denmark,5.573310852050781,3.4618377685546875
+16965,1964,Tel Aviv,The twin city of Tel Aviv is,Philadelphia,Havana,4.1962432861328125,2.70367431640625
+7454,829,Adrian Ludwig Richter,Adrian Ludwig Richter succumbed at,Dresden,Helsinki,1.1750564575195312,1.4736404418945312
+11868,737,Philip V of Spain,Philip V of Spain speaks the language,Spanish,French,3.2393035888671875,2.88153076171875
+13160,1359,Bernadette Lafont,"Bernadette Lafont, speaker of",French,Russian,3.525371551513672,3.266857147216797
+3798,985,Vayots Dzor Region,Vayots Dzor Region can be found in,Armenia,Massachusetts,6.010292053222656,7.6802978515625
+20169,510,Cadillac Sixty Special,Cadillac Sixty Special is a product of,Cadillac,Honda,2.5827102661132812,4.0761260986328125
+1491,836,Abdur Raheem Green,Abdur Raheem Green is follower of,Islam,Buddhism,5.751472473144531,1.97125244140625
+20552,1597,Anatoly Kudryavitsky,"Anatoly Kudryavitsky, a native",Russian,French,4.889644622802734,5.181316375732422
+10101,412,Honda Civic Hybrid,"Honda Civic Hybrid, developed by",Honda,Volvo,4.233154296875,3.4402542114257812
+13074,196,Letter to Loretta,Letter to Loretta premiered on,NBC,ESPN,1.6589126586914062,1.5039749145507812
+19827,1945,Egidio Arévalo Rios,Egidio Arévalo Rios is a professional,soccer,hockey,3.7939224243164062,3.2584152221679688
+3573,1345,Kungliga Svenska Segelsällskapet,"Kungliga Svenska Segelsällskapet, in",Sweden,Indonesia,6.851264953613281,6.034416198730469
+12481,1377,Marco Delvecchio,Marco Delvecchio originated from,Milan,Kabul,6.6851043701171875,4.2763824462890625
+8845,86,Junichi Suwabe,Junichi Suwabe was born in,Tokyo,Nottingham,6.882179260253906,4.657024383544922
+8211,2041,Open-air museum Skansen,Open-air museum Skansen is located in,Stockholm,Columbia,4.0032806396484375,4.735389709472656
+6950,769,Process Explorer,"Process Explorer, created by",Microsoft,IBM,3.90106201171875,2.0749740600585938
+11605,1527,golf,"golf, from",Scotland,Canada,1.138427734375,1.9930267333984375
+9904,832,Google Street View,"Google Street View, created by",Google,Apple,2.71142578125,1.064697265625
+10366,328,Shmuel HaNavi bus bombing,Where is Shmuel HaNavi bus bombing? It is located in,Jerusalem,London,1.016693115234375,2.2922821044921875
+16034,1277,Valentin Glushko,The mother tongue of Valentin Glushko is,Russian,Dutch,3.9660720825195312,3.4371414184570312
+1997,297,Suzuki GSX-R750,"Suzuki GSX-R750, produced by",Suzuki,Nissan,1.4327774047851562,2.3542633056640625
+12735,1268,"Ulrika Eleonora, Queen of Sweden","Ulrika Eleonora, Queen of Sweden's life ended in",Stockholm,Athens,3.6033554077148438,2.53399658203125
+8004,353,Joseph Hume,The language used by Joseph Hume is,English,Hungarian,4.616386413574219,1.0191192626953125
+8396,699,Bern,What is the twin city of Bern? It is,Vienna,Jakarta,3.3382720947265625,1.3755111694335938
+1232,1613,2006 Swedish general election,The location of 2006 Swedish general election is,Sweden,Paris,1.8688812255859375,2.564788818359375
+3039,38,CBS Sports Spectacular,CBS Sports Spectacular was released on,CBS,PBS,2.094329833984375,1.3066482543945312
+11448,1572,Francesco Parravicini,Which position does Francesco Parravicini play? They play as,midfielder,linebacker,1.7967910766601562,2.9656906127929688
+1349,2061,Surimi,"Surimi, that was from",Japan,Australia,3.2083816528320312,2.188323974609375
+2430,2016,Mechell,Mechell was native to,Wales,Detroit,1.5282058715820312,1.8626327514648438
+8943,641,IBM 5120,IBM 5120 is created by,IBM,Nintendo,3.694183349609375,3.7128219604492188
+4580,1258,Alabama,"In Alabama, an official language is",English,Swedish,5.983406066894531,1.5225296020507812
+5176,1155,Quelli dell'intervallo,The original language of Quelli dell'intervallo was,Italian,English,1.053009033203125,3.7827529907226562
+20345,1190,Cappoquin,Cappoquin is located in the country of,Ireland,Pakistan,1.0703048706054688,2.1335906982421875
+19746,1917,Room Raiders,Room Raiders was originally aired on,MTV,History,3.5844650268554688,1.0414199829101562
+14220,1115,Walter Ulbricht,Walter Ulbricht was employed in,Berlin,Paris,2.9397125244140625,3.3964004516601562
+21064,105,Marie Dorval,Marie Dorval is a native speaker of,French,Chinese,2.1801528930664062,1.7561721801757812
+2551,1534,Battle of Crug Mawr,Battle of Crug Mawr is in,Wales,Berlin,1.1546554565429688,2.3366928100585938
+11014,645,Football Association of Cuba,Football Association of Cuba is affiliated with,FIFA,NATO,3.1722564697265625,1.7279510498046875
+18211,287,Upper Canada District School Board,Upper Canada District School Board can be found in,Ontario,Nevada,5.679344177246094,4.589530944824219
+11697,1885,BMW 4 Series,BMW 4 Series is a product of,BMW,Dodge,5.2881317138671875,4.4585418701171875
+11746,1127,Chevrolet Caprice,"Chevrolet Caprice, produced by",Chevrolet,IBM,5.4474945068359375,7.8526611328125
+10165,1678,Katharine Jefferts Schori,"Katharine Jefferts Schori, whose position is that of",bishop,cardinal,2.62396240234375,1.1625137329101562
+13596,1043,Miraflores Altarpiece,Miraflores Altarpiece can be found in,Berlin,Wales,1.9947662353515625,1.4027557373046875
+8212,1191,Nonchan Noriben,Nonchan Noriben was created in the country of,Japan,Brazil,6.923683166503906,6.057212829589844
+20390,651,Massachusetts Route 103,Massachusetts Route 103 is within,Massachusetts,Michigan,2.7467575073242188,2.1536331176757812
+9543,904,Oxford International Film Festival,Where is Oxford International Film Festival? It is located in,Oxford,Paris,4.3513641357421875,5.5950164794921875
+10214,195,Germany,Germany is affiliated with,NATO,FIFA,1.8424224853515625,1.5744552612304688
+21140,1939,Secret Squirrel,Secret Squirrel debuted on,NBC,CNN,2.9348602294921875,1.469512939453125
+6260,779,Samuel von Fischer,Samuel von Fischer worked in the city of,Berlin,Denver,4.549537658691406,4.499298095703125
+1683,852,Georg Joseph Beer,Georg Joseph Beer worked in the city of,Vienna,Portugal,5.113258361816406,1.0234909057617188
+3208,265,Mercury Comet,"Mercury Comet, produced by",Mercury,Renault,6.642269134521484,5.194866180419922
+13369,1019,Flask Glacier,Flask Glacier is located in the continent,Antarctica,Asia,3.2811813354492188,1.5974807739257812
+19002,1051,Apple Maps,"Apple Maps, a product created by",Apple,Boeing,6.0050506591796875,2.5986175537109375
+17559,816,Yaganti,Yaganti is named after,Shiva,Christmas,2.8531341552734375,4.337394714355469
+13461,1419,Glasgow School,Glasgow School can be found in,Glasgow,Melbourne,5.338775634765625,4.911476135253906
+3024,386,Aleksandr Ptushko,The native language of Aleksandr Ptushko is,Russian,French,5.1626739501953125,6.02764892578125
+2961,1114,Czechoslovak Television,The headquarter of Czechoslovak Television is located in,Prague,Norwich,9.195091247558594,5.7037506103515625
+6887,518,Athens Football Clubs Association,Athens Football Clubs Association is based in,Athens,Houston,7.123664855957031,8.096435546875
+3169,40,Jens Evensen,Jens Evensen is a citizen of,Norway,Ireland,2.7063369750976562,4.34100341796875
+3893,2159,Munich Residence,"Munich Residence, in",Germany,Romania,5.821952819824219,2.9141082763671875
+14490,957,Moreno Mannini,"Moreno Mannini, a citizen of",Italy,Greece,2.3071670532226562,2.4797897338867188
+7725,1773,Claude-Joseph Dorat,Claude-Joseph Dorat spoke the language,French,Swedish,3.425617218017578,1.0218238830566406
+19154,1237,William Didier-Pouget,William Didier-Pouget speaks,French,Italian,3.4984970092773438,1.553314208984375
+19829,2058,Ghazi of Iraq,The official religion of Ghazi of Iraq is,Islam,Christian,4.824737548828125,3.0341873168945312
+18789,1538,Suzuki Aerio,Suzuki Aerio is developed by,Suzuki,Dodge,4.7585296630859375,4.383918762207031
+20408,1808,1926 Imperial Conference,1926 Imperial Conference is in,London,Montreal,2.69189453125,1.1764984130859375
+7816,692,Afghanistan,"Afghanistan, which has the capital city",Kabul,Ankara,6.7220916748046875,6.1855926513671875
+17237,1835,Bispebjerg,"Bispebjerg, in",Denmark,Philippines,8.550010681152344,5.2164764404296875
+19543,130,The Woodentops,The Woodentops was founded in,London,Moscow,4.15911865234375,2.02850341796875
+18346,421,Gaiola,"Gaiola, in",Italy,Greece,2.84918212890625,1.2721176147460938
+18651,928,Gibraltar,Gibraltar is located in,Europe,Antarctica,4.378013610839844,1.869171142578125
+3729,1493,Birendra of Nepal,"Birendra of Nepal, who has a citizenship from",Nepal,Australia,5.478172302246094,7.779273986816406
+21359,1630,Mayo Clinic,Mayo Clinic is based in,Rochester,Stockholm,2.1623687744140625,1.7880859375
+18150,208,Herbert von Karajan,Herbert von Karajan was employed in,Berlin,Budapest,3.0300750732421875,1.1369400024414062
+14978,1809,Les Bois,The law in Les Bois declares the language,French,German,1.4433212280273438,1.2859420776367188
+18672,760,Google Labs,Google Labs is owned by,Google,IBM,3.228240966796875,1.3241729736328125
+19626,166,Juan de Espinosa Medrano,"Juan de Espinosa Medrano, speaker of",Spanish,French,2.6453704833984375,3.9942398071289062
+19548,469,Oslo Central Station,Oslo Central Station is located in,Oslo,Texas,2.7393035888671875,7.735404968261719
+19591,1657,Fendley Glacier,Fendley Glacier is located in,Antarctica,Europe,1.45819091796875,3.4185409545898438
+18866,1536,Intel 80486,Intel 80486 is a product of,Intel,Google,6.321556091308594,7.962852478027344
+7501,216,Antonio Vivaldi,Antonio Vivaldi is known for performing,opera,jazz,1.4987258911132812,2.2243728637695312
+12794,1840,IBM Parallel Sysplex,IBM Parallel Sysplex is developed by,IBM,Apple,3.136993408203125,5.289909362792969
+7825,1066,Swedish Orphan Biovitrum,Swedish Orphan Biovitrum's headquarters are in,Stockholm,Paris,3.83746337890625,6.492927551269531
+13764,733,Gaetano D'Agostino,"Gaetano D'Agostino, the",midfielder,linebacker,2.1082992553710938,1.46923828125
+20538,1105,Matt Holland,"Matt Holland, who plays the position",midfielder,goaltender,3.1683883666992188,1.270782470703125
+1482,2144,Alexandre de Beauharnais,Alexandre de Beauharnais worked in the city of,Paris,Berlin,5.555335998535156,4.5746612548828125
+17290,189,Jean Chiappe,"Jean Chiappe, speaker of",French,Russian,2.9937400817871094,2.6739273071289062
+14124,238,Prague,The twin city of Prague is,Berlin,Jerusalem,2.6417007446289062,1.6973800659179688
+12742,644,Windows 95,"Windows 95, a product of",Microsoft,Apple,2.2054481506347656,2.4346351623535156
+9114,958,Chevrolet Spark,Chevrolet Spark is produced by,Chevrolet,Volvo,2.2833404541015625,2.7708587646484375
+8998,598,Bundesautobahn 3,Bundesautobahn 3's owner,Germany,BBC,1.2555999755859375,1.97589111328125
+20700,1863,Astaldi,Astaldi is based in,Rome,Amsterdam,2.4670867919921875,1.1539382934570312
+20537,596,Paul Robeson,Paul Robeson passed away in,Philadelphia,Moscow,1.58599853515625,1.6559600830078125

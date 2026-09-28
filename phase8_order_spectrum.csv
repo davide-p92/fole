@@ -1,0 +1,6 @@
+provider,order,mean_signed,std_signed,mean_abs,std_abs,n_tasks
+local,0,0.5,0.7071067811865476,0.5,0.7071067811865476,2
+local,1,0.0,0.0,0.0,0.0,2
+local,2,0.0,0.0,0.0,0.0,2
+local,3,0.0,0.0,0.0,0.0,2
+local,4,0.0,0.0,0.0,0.0,2

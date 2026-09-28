@@ -1,0 +1,43 @@
+{
+  "model": "openai-community/gpt2",
+  "N_fresh": 128,
+  "AIE_pair": [
+    [
+      10,
+      "Q"
+    ],
+    [
+      9,
+      "Q"
+    ]
+  ],
+  "interaction_pair": [
+    [
+      10,
+      "Q"
+    ],
+    [
+      8,
+      "S"
+    ]
+  ],
+  "primary_scale": 3.0,
+  "noise_scales": [
+    2.5,
+    3.0,
+    3.5
+  ],
+  "noise_seeds": [
+    101,
+    202,
+    303
+  ],
+  "reference_scale": 3.0,
+  "reference_seed": 424242,
+  "min_clean_margin": 1.0,
+  "min_reference_TE": 1.0,
+  "min_eval_TE": 0.5,
+  "primary_metric": "normalized causal recovery",
+  "primary_success": "paired bootstrap 95% CI lower bound > 0",
+  "practical_threshold": 0.02
+}

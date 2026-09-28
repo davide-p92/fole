@@ -1,0 +1,129 @@
+case_id,source_case_id,dataset_index,subject,prompt,true_text,new_text,D_clean_reference,TE_reference
+0,13107,1893,Harry Welles Rusk,Harry Welles Rusk died at,Baltimore,Lisbon,2.2305908203125,2.90887451171875
+1,10893,1059,Jacques Attali,The mother tongue of Jacques Attali is,French,Chinese,1.9248046875,1.17132568359375
+2,16180,938,Northlands,"Northlands, whose headquarters are in",Edmonton,Amsterdam,2.1300048828125,2.1270751953125
+3,3779,462,Chevrolet Chevette,Chevrolet Chevette is a product of,Chevrolet,IBM,3.43975830078125,7.76611328125
+4,5525,2051,Charles Kennedy,Charles Kennedy worked in the city of,London,Brisbane,5.279296875,1.1353759765625
+5,9139,756,Guinea-Bissau,"In Guinea-Bissau, the language spoken is",Portuguese,Finnish,4.313720703125,3.00933837890625
+6,18025,978,Orikhiv,Orikhiv is located in the country of,Ukraine,Venezuela,3.1690673828125,2.95855712890625
+7,2778,532,IBM DeveloperWorks,"IBM DeveloperWorks, a product of",IBM,Adobe,2.75531005859375,3.46551513671875
+8,20550,2074,Wiener AC,"Wiener AC, whose headquarters are in",Vienna,Athens,4.54010009765625,3.8966064453125
+9,5098,1480,Sakichi Toyoda,"Sakichi Toyoda, a citizen of",Japan,Australia,5.3653564453125,3.08209228515625
+10,14246,147,Syed Kalbe Hussain,The official religion of Syed Kalbe Hussain is,Islam,Buddhism,2.76824951171875,2.28546142578125
+11,4490,2174,Fyodor Pavlovich Reshetnikov,Fyodor Pavlovich Reshetnikov spoke the language,Russian,French,1.008056640625,2.1236572265625
+12,6883,416,Molina de Segura,"In Molina de Segura, an official language is",Spanish,Swedish,5.24542236328125,3.175048828125
+13,307,1151,Chardonne,"In Chardonne, an official language is",French,English,1.0513916015625,2.34417724609375
+14,3917,815,Sky Cinema,Sky Cinema's owner,Sky,Google,1.1566162109375,3.6630859375
+15,8123,202,Firuz Shah Tughlaq,Firuz Shah Tughlaq is affiliated with the religion,Islam,Buddhism,3.3289794921875,2.4007568359375
+16,1061,1944,LaFerrari,"LaFerrari, developed by",Ferrari,Toyota,1.8951416015625,2.5296630859375
+17,5077,1704,Alex Rodriguez,Alex Rodriguez is a professional,baseball,hockey,1.2713623046875,1.600830078125
+18,8185,261,Fernand Ledoux,Fernand Ledoux is a native speaker of,French,English,1.8875732421875,3.6839599609375
+19,3976,572,Palace Software,Palace Software's headquarters are in,London,Hawaii,3.84222412109375,1.74163818359375
+20,1543,124,68th Venice International Film Festival,68th Venice International Film Festival is in,Venice,Wales,6.7564697265625,6.91766357421875
+21,2661,2063,Ernst Reuter,Ernst Reuter worked in,Berlin,Italy,2.6959228515625,2.85552978515625
+22,6539,441,Nelson Valdez,Nelson Valdez is a professional,soccer,hockey,2.86126708984375,1.87969970703125
+23,5045,1025,Wiener schnitzel,"Wiener schnitzel, from",Austria,Japan,2.4112548828125,2.7501220703125
+24,483,269,La Revista Blanca,"La Revista Blanca, that was from",Spain,Belgium,3.96746826171875,2.676025390625
+25,3115,1397,Charles Dupin,Charles Dupin used to work in,Paris,Rome,3.64501953125,2.0211181640625
+26,12535,437,Veysian Rural District,"Veysian Rural District, located in",Iran,Venezuela,2.00714111328125,1.31903076171875
+27,17294,1799,Iceland,Iceland is a member of,NATO,FIFA,2.43792724609375,2.03192138671875
+28,10609,1330,Ginette Garcin,The native language of Ginette Garcin is,French,Latin,1.447265625,1.4195556640625
+29,11589,420,Roman Empire,"In Roman Empire, an official language is",Greek,Finnish,4.64361572265625,3.398681640625
+30,7119,1283,Hussniya Jabara,Hussniya Jabara speaks,Hebrew,Swedish,1.524658203125,1.31561279296875
+31,8951,1490,penne,penne from,Italy,Canada,1.904296875,1.3651123046875
+32,15120,1022,Ferrari 575M Maranello,"Ferrari 575M Maranello, created by",Ferrari,Chevrolet,4.5936279296875,1.7589111328125
+33,3849,1023,Pierre Lescure,"Pierre Lescure, speaker of",French,Hebrew,5.0609130859375,2.93280029296875
+34,7196,89,World Association of Girl Guides and Girl Scouts,World Association of Girl Guides and Girl Scouts is headquartered in,London,Barcelona,4.35150146484375,1.063720703125
+35,6220,2114,Augustin Barruel,Augustin Barruel is a native speaker of,French,Dutch,2.21746826171875,1.78912353515625
+36,10079,927,Jeff Tweedy,Jeff Tweedy took up work in,Chicago,Moscow,2.4365234375,1.36859130859375
+37,7733,1938,Visual Basic .NET,Visual Basic .NET is a product of,Microsoft,Google,2.6507568359375,2.3001708984375
+38,10311,100,Eureka Brass Band,Eureka Brass Band is known for performing,jazz,opera,3.2802734375,1.075927734375
+39,11317,2092,Belarus,The official language of Belarus is,Russian,French,1.962646484375,2.96942138671875
+40,16847,221,Operation Apollo,Where is Operation Apollo? It is located in,Afghanistan,Madrid,1.6181640625,1.5421142578125
+41,21218,730,Wear OS,Wear OS is developed by,Google,Sony,3.31671142578125,1.71343994140625
+42,13686,1541,Brickell Key,Brickell Key is in,Miami,Alaska,1.6209716796875,1.5191650390625
+43,2280,1462,Satyendra Nath Bose,Satyendra Nath Bose speaks the language,English,Italian,3.7025146484375,1.608154296875
+44,13848,31,Interstate 255,Interstate 255 is within,Illinois,Vienna,1.45684814453125,1.15472412109375
+45,21854,418,Jean Lefebvre,The native language of Jean Lefebvre is,French,English,1.5274658203125,1.0325927734375
+46,17338,136,Aloha Stadium,"Aloha Stadium, from",Hawaii,BBC,4.2401123046875,4.982177734375
+47,5408,648,Pierre Jolivet,"Pierre Jolivet, a native",French,Dutch,2.69024658203125,1.98077392578125
+48,4946,1599,Football Association of Thailand,Football Association of Thailand is affiliated with the,FIFA,NATO,3.4691162109375,3.7144775390625
+49,16565,1381,Netherlands,Netherlands is a part of the,NATO,FIFA,1.98797607421875,2.22161865234375
+50,13614,1030,Lincoln United F.C.,Lincoln United F.C. is named for,Lincoln,Sheffield,7.8126220703125,3.308349609375
+51,5854,153,Pierre Soulages,Pierre Soulages used to work in,Paris,Hamburg,3.7005615234375,1.4449462890625
+52,9617,146,Lionel Messi,Lionel Messi holds a citizenship from,Argentina,Netherlands,5.3892822265625,4.069091796875
+53,16562,2125,Jakub Kubicki,"Jakub Kubicki, a citizen of",Poland,Spain,2.13848876953125,2.611572265625
+54,538,1815,This Providence,"This Providence, that was formed in",Seattle,Tokyo,1.03826904296875,1.77947998046875
+55,7261,792,Muhammad Jamalul Alam II,Muhammad Jamalul Alam II is follower of,Islam,Buddhism,3.96063232421875,1.61517333984375
+56,11980,2166,Vermont Route 108,Vermont Route 108 is in,Vermont,Scotland,2.59619140625,2.0306396484375
+57,2326,213,Apple IIe Card,Apple IIe Card is created by,Apple,Ferrari,6.0006103515625,2.05438232421875
+58,12968,1559,Fort Humboldt State Historic Park,Fort Humboldt State Historic Park is located in,California,Florida,1.0860595703125,1.47265625
+59,7031,1971,Harry Ham,"Harry Ham, who works as",actor,economist,2.57666015625,1.763916015625
+60,7661,1242,Google Web Toolkit,"Google Web Toolkit, developed by",Google,Intel,3.92889404296875,1.86358642578125
+61,21896,1831,Archduke Louis of Austria,Archduke Louis of Austria originated from,Florence,Israel,1.4246826171875,2.34405517578125
+62,18812,1439,Guichard Joseph Duverney,Guichard Joseph Duverney died in the city of,Paris,Indianapolis,5.782958984375,4.9302978515625
+63,10629,1124,Santiago Carrillo,Santiago Carrillo passed away in,Madrid,Hollywood,2.64593505859375,3.16998291015625
+64,20740,536,Graeme MacDonald,"Graeme MacDonald, of",BBC,Intel,1.03741455078125,1.10931396484375
+65,1507,1123,Petros Voulgaris,"Petros Voulgaris, who is a citizen of",Greece,Singapore,2.85333251953125,1.1739501953125
+66,18587,1943,Jules Massenet,Jules Massenet speaks the language,French,Norwegian,3.7969970703125,1.3731689453125
+67,10247,2113,India,The official language of India is,English,Greek,5.12652587890625,1.29034423828125
+68,14044,660,Edelgard Bulmahn,"Edelgard Bulmahn, a citizen of",Germany,Italy,1.59832763671875,2.0052490234375
+69,9108,67,Desejos de Mulher,"Desejos de Mulher, that was created in",Brazil,Poland,2.04327392578125,2.39105224609375
+70,8493,590,Le Monde,The language of Le Monde is,French,Swedish,5.036376953125,2.75689697265625
+71,18089,51,"George Cadogan, 5th Earl Cadogan","George Cadogan, 5th Earl Cadogan passed away in",London,Minneapolis,7.69476318359375,5.35992431640625
+72,12217,1652,Samsung NX series,Samsung NX series is developed by,Samsung,Apple,4.91973876953125,6.29547119140625
+73,9125,223,Kitakami Station,"Kitakami Station, which is located in",Japan,Mexico,4.32562255859375,3.98406982421875
+74,19908,1935,George Manuel,"George Manuel, a citizen of",Canada,Indonesia,1.32464599609375,1.0645751953125
+75,14502,581,Montserrat Lombard,Montserrat Lombard's profession is an,actor,journalist,6.3477783203125,1.205810546875
+76,21455,1091,Windows Embedded,Windows Embedded was a product of,Microsoft,Apple,2.439208984375,1.35711669921875
+77,16670,1995,QuickDraw,QuickDraw is a product of,Apple,Sony,3.95465087890625,1.5635986328125
+78,4259,1319,gelato,gelato was from,Italy,Denmark,3.5169677734375,2.387451171875
+79,16812,1933,Airwolf,Airwolf premieres on,CBS,BBC,1.33984375,1.3651123046875
+80,8044,754,Pierre-Alexandre-Laurent Forfait,Pierre-Alexandre-Laurent Forfait is a native speaker of,French,Hebrew,4.88482666015625,3.4271240234375
+81,16866,2117,Toyota Auris,Toyota Auris is created by,Toyota,Honda,1.1461181640625,1.18463134765625
+82,7693,1265,Hang Seng Bank,"Hang Seng Bank, whose headquarters are in",Central,Hamburg,1.42010498046875,1.13348388671875
+83,8994,1179,Richard Challoner,"Richard Challoner, who has the position of",bishop,pope,2.52197265625,1.1973876953125
+84,18049,1016,Windows Communication Foundation,Windows Communication Foundation was developed by,Microsoft,Intel,3.16229248046875,1.6849365234375
+85,2426,1978,Edmondo Fabbri,Edmondo Fabbri plays in the position of,midfielder,pitcher,1.355712890625,1.10064697265625
+86,14736,1628,Plus belle la vie,The original language of Plus belle la vie is,French,Portuguese,3.74517822265625,1.72503662109375
+87,19349,10,Lewin Brzeski,"Lewin Brzeski, in",Poland,Norway,2.7076416015625,1.23992919921875
+88,12125,1474,John Singer Sargent,John Singer Sargent worked in,Paris,Madrid,3.6959228515625,2.178466796875
+89,16559,17,The Constellations,"The Constellations, that was formed in",Atlanta,Calgary,3.11712646484375,1.0064697265625
+90,9163,773,Antoine-Louis Barye,Antoine-Louis Barye took up work in,Paris,Toronto,4.02716064453125,1.8974609375
+91,9338,355,Northern Mariana Islands Football Association,Northern Mariana Islands Football Association is affiliated with,FIFA,WWE,4.26507568359375,1.9710693359375
+92,14270,741,Lavalin,The headquarters of Lavalin is in,Montreal,Vancouver,1.82061767578125,1.60723876953125
+93,10120,1696,"Redwood Meadows, Alberta","Redwood Meadows, Alberta can be found in",Alberta,Texas,2.50457763671875,2.82391357421875
+94,11753,1292,Lester Young,Lester Young is known for performing,jazz,thriller,4.01312255859375,1.30133056640625
+95,16862,987,Economic Community of West African States,"In Economic Community of West African States, they understand",French,Indonesian,2.7349853515625,1.0767822265625
+96,3546,1433,Josefstadt,Josefstadt is located in,Vienna,Manhattan,2.791015625,2.1766357421875
+97,2199,1406,Zlatibor District,Zlatibor District is located in,Serbia,Minnesota,1.11767578125,1.44683837890625
+98,5161,1991,Adobe AIR,Adobe AIR is developed by,Adobe,Microsoft,1.761962890625,2.3475341796875
+99,17983,1798,Giovanni Battista Ricci,Giovanni Battista Ricci passed away at,Rome,Philadelphia,3.1241455078125,3.95172119140625
+100,11005,604,Karl Liebknecht,Karl Liebknecht died in,Berlin,Boston,3.5887451171875,1.90655517578125
+101,7457,445,Shunyi Olympic Rowing-Canoeing Park,"Shunyi Olympic Rowing-Canoeing Park, in",Beijing,Kuwait,3.4849853515625,2.42242431640625
+102,4828,544,Piero Bellugi,Piero Bellugi died in,Florence,Stockholm,1.6689453125,1.85174560546875
+103,11111,2164,Franz Pfeffer von Salomon,Franz Pfeffer von Salomon lost their life at,Munich,Jamaica,2.63983154296875,2.6026611328125
+104,3507,372,Manuel Carrasco,"Manuel Carrasco, a citizen of",Spain,Italy,1.50396728515625,1.82763671875
+105,17405,1132,Burt Green Wilder,Burt Green Wilder was native to,Boston,Stockholm,4.531494140625,1.553955078125
+106,16197,765,Brandon Jenkins (football player),"Brandon Jenkins (football player), who plays the position",linebacker,pitcher,2.0506591796875,1.35003662109375
+107,18557,1459,Taranto Sport,"Taranto Sport, located in",Italy,Australia,3.50738525390625,2.76171875
+108,7972,794,Gennady Yevryuzhikhin,Gennady Yevryuzhikhin's life ended in,Moscow,Philadelphia,1.261474609375,1.27703857421875
+109,10983,538,Uinta Basin,Uinta Basin is within,Utah,Milan,2.4163818359375,1.6370849609375
+110,13272,1544,Hamidou Benmassoud,The mother tongue of Hamidou Benmassoud is,French,Korean,2.99066162109375,1.347412109375
+111,18279,2165,State Street Corporation,State Street Corporation is based in,Boston,Montreal,2.6292724609375,1.22174072265625
+112,6984,348,Vittorio Sgarbi,Vittorio Sgarbi holds the title of,mayor,bishop,1.4921875,1.188720703125
+113,18132,838,Philadelphia Experiment,Philadelphia Experiment is called after,Philadelphia,Trinity,3.29541015625,3.46746826171875
+114,9692,1706,Natarang,"Natarang, formulated in",India,Canada,2.85015869140625,1.94744873046875
+115,9805,2186,Lakeridge Health Oshawa,Lakeridge Health Oshawa is in,Ontario,Independence,5.65020751953125,2.78936767578125
+116,11457,443,3 Idiots,3 Idiots was from,India,Portugal,2.41680908203125,2.89630126953125
+117,19749,1670,Milanesa,Milanesa originated in,Italy,Switzerland,3.273193359375,1.2630615234375
+118,15569,548,Kings Domain,"Kings Domain, located in",Australia,Belgium,2.22882080078125,1.4403076171875
+119,8270,983,Stefan Sofiyanski,"Stefan Sofiyanski, who has the position of",mayor,bishop,2.8668212890625,1.45770263671875
+120,21295,22,Five Star Krishna,Five Star Krishna's profession is an,actor,comedian,8.4892578125,1.54925537109375
+121,16888,1876,Yahoo! Tech,Yahoo! Tech is owned by,Yahoo,Pennsylvania,10.65777587890625,7.5426025390625
+122,10827,219,Mick Lally,The language used by Mick Lally is,Irish,Korean,1.34649658203125,1.230712890625
+123,15449,1243,Geneva Film Festival,Geneva Film Festival is located in,Geneva,Melbourne,1.83282470703125,2.2391357421875
+124,16887,1817,Linda Marlowe,Linda Marlowe works as,actor,philosopher,2.270263671875,1.525634765625
+125,20672,1659,Panamanian Football Federation,Panamanian Football Federation is a part of the,FIFA,NATO,4.34808349609375,5.11724853515625
+126,18033,264,Mohamed Morsi,Mohamed Morsi is affiliated with the religion,Islam,Judaism,4.3603515625,2.9547119140625
+127,8529,1969,Microsoft Forefront Threat Management Gateway,Microsoft Forefront Threat Management Gateway was a product of,Microsoft,Intel,3.4879150390625,2.916015625

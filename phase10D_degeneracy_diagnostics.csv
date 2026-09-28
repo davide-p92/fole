@@ -1,0 +1,4 @@
+query_id,n_boot,n_all_zero,p_all_zero,n_interaction_nondegenerate,p_interaction_nondegenerate,conditioning_note
+5a855b5c5542997b5ce3ffeb,1000,0,0.0,1000,1.0,normalized interaction-energy CIs are conditional on non-DC energy > DEGENERATE_TOL
+5a860aa6554299211dda2a45,1000,0,0.0,1000,1.0,normalized interaction-energy CIs are conditional on non-DC energy > DEGENERATE_TOL
+5a90b1a15542990a984936ab,1000,54,0.054,946,0.946,normalized interaction-energy CIs are conditional on non-DC energy > DEGENERATE_TOL

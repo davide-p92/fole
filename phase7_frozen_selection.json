@@ -1,0 +1,41 @@
+{
+  "model": "EleutherAI/pythia-160m",
+  "discovery_n": 32,
+  "discovery_manifest_sha256": "5d6b5c52203d135ff7c2310055927138d9ae39146bc1b8b940b61647e26965e5",
+  "AIE_pair": [
+    [
+      10,
+      "Q"
+    ],
+    [
+      9,
+      "Q"
+    ]
+  ],
+  "interaction_pair": [
+    [
+      4,
+      "S"
+    ],
+    [
+      10,
+      "Q"
+    ]
+  ],
+  "selection_rule_AIE": "top two sites by mean normalized single-site IE",
+  "selection_rule_interaction": "pair with maximum mean measured pair recovery",
+  "primary_holdout_metric": "normalized causal recovery",
+  "primary_success": "paired bootstrap 95% CI lower bound > 0",
+  "practical_threshold": 0.02,
+  "noise_scales": [
+    2.5,
+    3.0,
+    3.5
+  ],
+  "noise_seeds": [
+    101,
+    202,
+    303
+  ],
+  "primary_scale": 3.0
+}

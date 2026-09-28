@@ -1,0 +1,5 @@
+provider,query_id,empty_F,full_F_x,full_minus_empty,support_recall,full_F_y,target_F,minimal_context_size,minimal_masks,oracle_mask,oracle_order,oracle_F,oracle_utility,oracle_titles,prefix_mask,prefix_order,prefix_utility,prefix_regret,order2_mask,order2_order,order2_utility,order2_regret,order2_exact_oracle
+local,5a855b5c5542997b5ce3ffeb,0.0,0.0,0.0,0.5,0.0,0.8,,[],3,2,0.25,-0.12832832899999988,"['Mexico, Maine', 'Metea Valley High School']",3,2,-0.12832832899999988,0.0,15,4,-0.6360824915999963,0.5077541625999964,False
+local,5a860aa6554299211dda2a45,0.0,0.0,0.0,0.5,0.0,0.8,1.0,"[2, 8, 4, 32]",2,1,1.0,0.960434220599956,['Gary L. Howe'],1,1,0.6542504068726839,0.3061838137272721,2,1,0.960434220599956,0.0,True
+local,5a90b1a15542990a984936ab,0.0,0.0,0.0,1.0,0.0,0.8,1.0,[16],16,1,1.0,0.6490422837999952,['Royal Dutch Shell'],0,0,-0.2121713438000006,0.8612136275999958,16,1,0.6490422837999952,0.0,True
+local,5abcd77755429965836004ce,0.0,0.0,0.0,1.0,0.0,0.8,,[],0,0,0.0,-0.023359888800070623,[],0,0,-0.023359888800070623,0.0,0,0,-0.023359888800070623,0.0,True

@@ -1,0 +1,4 @@
+provider,task_id,family,full_context_F,minimal_empirical_size,minimal_empirical_masks,ground_truth_masks,matches_ground_truth_minimal_mask
+local,0,direct,1.0,0.0,[0],[1],False
+local,1,redundant,0.0,,[],"[2, 4]",False
+local,2,pair_chain,,0.0,[0],[3],False
